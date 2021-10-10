@@ -97,4 +97,4 @@ reg y x z, robust
 
 * In this case, standard error were estimated correctly and the t statistic of our variable of interest, x, raised.
 
-* In this simulation, we learn how to detect heteroskedasticity in a database visually and using a test. Finally, we estimated the standard errors properly. The main lesson of this class is that heteroskedasticity is a significant problem, and if we don't deal with it, we can make wrong conclusions. 
+* In this simulation, we learned how to detect heteroskedasticity in a database visually and using a test. Finally, we estimated the standard errors properly. The main lesson of this class is that heteroskedasticity is a significant problem, and if we don't deal with it, we can make wrong conclusions. 
